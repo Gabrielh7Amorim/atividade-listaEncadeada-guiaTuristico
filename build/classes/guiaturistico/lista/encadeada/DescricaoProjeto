@@ -1,0 +1,10 @@
+GABRIEL HENRIQUE SANTOS AMORIM
+
+ESTRUTURA DE DADOS - ATIVIDADE LISTA ENCADEADA
+
+A aplicação desenvolvida se fundamenta no conceito de lista encadeada.
+A ideia é, basicamente, criar um gerador de Guia Turístico. Cada Guia é uma lista de
+Pontos Turísticos que são os Nós da nossa lista. Cada nó representa uma célula 
+que possui um elemento chamado "local" e uma referencia ao próximo destino. O usuário
+tem a liberdade de inserir as localidades desejadas para o seu Guia Turítico. Ao final,
+é gerado uma lista de pontos turísticos informados pelo usuário que segue a ordem de inserção.
